@@ -5,7 +5,16 @@
       "platforms": [
         {
           "name": "ios",
-          "versions": []
+          "versions": [
+            {
+              "name": "1.0.0",
+              "ernPlatformVersion": "0.1",
+              "isReleased": false,
+              "binary": null,
+              "nativeDeps": [],
+              "reactNativeApps": []
+            }
+          ]
         }
       ]
     }
