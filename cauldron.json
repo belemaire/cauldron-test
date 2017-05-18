@@ -57,7 +57,8 @@
                 ],
                 "ota": [
                   "@walmart/blankapp@0.0.11",
-                  "@walmart/blankapp@0.0.12"
+                  "@walmart/blankapp@0.0.12",
+                  "@walmart/blankapp@0.0.13"
                 ]
               }
             }
