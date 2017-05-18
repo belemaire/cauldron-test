@@ -73,7 +73,12 @@
     },
     {
       "name": "tmp",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
