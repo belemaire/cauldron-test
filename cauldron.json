@@ -34,29 +34,6 @@
           ]
         }
       ]
-    },
-    {
-      "name": "test",
-      "platforms": [
-        {
-          "name": "android",
-          "versions": [
-            {
-              "name": "1.0.0",
-              "ernPlatformVersion": "1000",
-              "isReleased": false,
-              "binary": null,
-              "nativeDeps": [
-                "[object Object]"
-              ],
-              "miniApps": {
-                "container": [],
-                "ota": []
-              }
-            }
-          ]
-        }
-      ]
     }
   ]
 }
