@@ -46,7 +46,9 @@
               "ernPlatformVersion": "1000",
               "isReleased": false,
               "binary": null,
-              "nativeDeps": [],
+              "nativeDeps": [
+                "[object Object]"
+              ],
               "miniApps": {
                 "container": [],
                 "ota": []
