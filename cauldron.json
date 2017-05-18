@@ -46,9 +46,7 @@
               "ernPlatformVersion": "1000",
               "isReleased": false,
               "binary": null,
-              "nativeDeps": [
-                "@walmart/test@0.42.0"
-              ],
+              "nativeDeps": [],
               "miniApps": {
                 "container": [],
                 "ota": []
