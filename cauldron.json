@@ -48,7 +48,8 @@
               "binary": null,
               "nativeDeps": [
                 "react-native@0.42.0",
-                "test@0.42.0"
+                "test@0.42.0",
+                "@walmart/test@0.42.0"
               ],
               "miniApps": {
                 "container": [],
