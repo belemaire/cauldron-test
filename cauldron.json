@@ -53,8 +53,7 @@
               ],
               "miniApps": {
                 "container": [
-                  "@walmart/blankapp@0.0.10",
-                  "@walmart/blankapp@0.0.12"
+                  "@walmart/blankapp@0.0.10"
                 ],
                 "ota": [
                   "@walmart/blankapp@0.0.11",
