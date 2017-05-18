@@ -44,7 +44,7 @@
             {
               "name": "1.0.0",
               "ernPlatformVersion": "1000",
-              "isReleased": true,
+              "isReleased": false,
               "binary": null,
               "nativeDeps": [
                 "@walmart/react-native-electrode-bridge@1.4.9",
