@@ -52,7 +52,9 @@
                 "react-native-code-push@1.17.1-beta"
               ],
               "miniApps": {
-                "container": [],
+                "container": [
+                  "@walmart/blankapp@0.0.10"
+                ],
                 "ota": []
               }
             }
