@@ -46,7 +46,9 @@
               "ernPlatformVersion": "1000",
               "isReleased": false,
               "binary": null,
-              "nativeDeps": [],
+              "nativeDeps": [
+                "react-native@0.42.0"
+              ],
               "miniApps": {
                 "container": [],
                 "ota": []
