@@ -55,7 +55,9 @@
                 "container": [
                   "@walmart/blankapp@0.0.10"
                 ],
-                "ota": []
+                "ota": [
+                  "@walmart/blankapp@0.0.11"
+                ]
               }
             }
           ]
