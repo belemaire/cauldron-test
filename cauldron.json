@@ -110,9 +110,9 @@
               "isReleased": false,
               "binary": null,
               "nativeDeps": [
-                "@walmart/react-native-electrode-bridge@1.4.9",
                 "react-native@0.42.0",
-                "react-native-code-push@1.17.1-beta"
+                "react-native-code-push@1.17.1-beta",
+                "@walmart/react-native-electrode-bridge@1.4.11"
               ],
               "miniApps": {
                 "container": [
