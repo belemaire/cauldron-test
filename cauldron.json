@@ -100,7 +100,12 @@
     },
     {
       "name": "mycoolapp",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
