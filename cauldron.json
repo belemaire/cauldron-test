@@ -97,6 +97,10 @@
           ]
         }
       ]
+    },
+    {
+      "name": "mycoolapp",
+      "platforms": []
     }
   ]
 }
