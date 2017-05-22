@@ -127,7 +127,12 @@
     },
     {
       "name": "testapp",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
