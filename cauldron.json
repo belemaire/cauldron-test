@@ -142,7 +142,7 @@
               ],
               "miniApps": {
                 "container": [
-                  "@walmart/FirstMiniApp@0.0.1",
+                  "@walmart/FirstMiniApp@0.0.2",
                   "@walmart/SecondMiniApp@0.0.1"
                 ],
                 "ota": []
