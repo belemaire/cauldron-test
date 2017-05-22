@@ -140,7 +140,9 @@
                 "react-native@0.42.0"
               ],
               "miniApps": {
-                "container": [],
+                "container": [
+                  "FirstMiniApp@0.0.1"
+                ],
                 "ota": []
               }
             }
