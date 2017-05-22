@@ -130,7 +130,19 @@
       "platforms": [
         {
           "name": "android",
-          "versions": []
+          "versions": [
+            {
+              "name": "1.0.0",
+              "ernPlatformVersion": "0.1",
+              "isReleased": false,
+              "binary": null,
+              "nativeDeps": [],
+              "miniApps": {
+                "container": [],
+                "ota": []
+              }
+            }
+          ]
         }
       ]
     }
