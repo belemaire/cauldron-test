@@ -146,7 +146,8 @@
                   "@walmart/SecondMiniApp@0.0.1"
                 ],
                 "ota": [
-                  "@walmart/FirstMiniApp@0.0.4"
+                  "@walmart/FirstMiniApp@0.0.4",
+                  "@walmart/SecondMiniApp@0.0.1"
                 ]
               }
             }
