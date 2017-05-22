@@ -134,7 +134,7 @@
             {
               "name": "1.0.0",
               "ernPlatformVersion": "0.1",
-              "isReleased": false,
+              "isReleased": true,
               "binary": null,
               "nativeDeps": [
                 "react-native@0.42.0",
