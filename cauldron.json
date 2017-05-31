@@ -160,7 +160,12 @@
     },
     {
       "name": "biloute",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
