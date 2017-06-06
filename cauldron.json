@@ -12,7 +12,8 @@
       "targetJsDependencies": [
         "react@15.4.2"
       ]
-    }, {
+    },
+    {
       "platformVersion": "0.2.x",
       "targetNativeDependencies": [
         "react-native@0.43.0",
@@ -205,6 +206,10 @@
           ]
         }
       ]
+    },
+    {
+      "name": "testin",
+      "platforms": []
     }
   ]
 }
