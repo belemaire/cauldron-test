@@ -1,4 +1,31 @@
 {
+  "manifests": [
+    {
+      "platformVersion": "0.3.x",
+      "targetNativeDependencies": [
+        "react-native@0.42.0",
+        "react-native-code-push@1.17.1-beta",
+        "react-native-stack-tracer@0.1.1",
+        "react-native-vector-icons@4.0.0",
+        "@walmart/react-native-electrode-bridge@1.4.12"
+      ],
+      "targetJsDependencies": [
+        "react@15.4.2"
+      ]
+    }, {
+      "platformVersion": "0.2.x",
+      "targetNativeDependencies": [
+        "react-native@0.43.0",
+        "react-native-code-push@1.18.1-beta",
+        "react-native-stack-tracer@0.1.1",
+        "react-native-vector-icons@4.2.0",
+        "@walmart/react-native-electrode-bridge@1.4.13"
+      ],
+      "targetJsDependencies": [
+        "react@15.4.2"
+      ]
+    }
+  ],
   "nativeApps": [
     {
       "name": "MainApp",
