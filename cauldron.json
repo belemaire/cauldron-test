@@ -12,10 +12,13 @@
         "@walmart/react-native-walmartcookie-api@0.17.14",
         "@walmart/react-native-walmartstate-api@0.17.10"
       ],
-      "targetJsDependencies": [
-      ]
+      "targetJsDependencies": []
     }
   ],
   "nativeApps": [
+    {
+      "name": "walmart-test-39427",
+      "platforms": []
+    }
   ]
 }
