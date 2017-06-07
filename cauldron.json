@@ -509,7 +509,8 @@
               "nativeDeps": [
                 "@walmart/react-native-electrode-bridge@1.4.12",
                 "react-native@0.42.0",
-                "react-native-code-push@1.17.1-beta"
+                "react-native-code-push@1.17.1-beta",
+                "react-native-stack-tracer@0.1.1"
               ],
               "miniApps": {
                 "container": [
