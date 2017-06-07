@@ -230,7 +230,12 @@
     },
     {
       "name": "walmart-test",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
