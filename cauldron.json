@@ -18,7 +18,12 @@
   "nativeApps": [
     {
       "name": "walmart-test-39427",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
