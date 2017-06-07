@@ -3,6 +3,7 @@
     {
       "platformVersion": "0.1.x",
       "targetNativeDependencies": [
+        "react-native@0.43.0",
         "@walmart/react-native-user-api@0.0.24",
         "@walmart/react-native-todo-api@0.0.34",
         "@walmart/react-native-navigation-api@0.0.17",
