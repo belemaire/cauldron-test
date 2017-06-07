@@ -497,7 +497,9 @@
               "ernPlatformVersion": "1000",
               "isReleased": false,
               "binary": null,
-              "nativeDeps": [],
+              "nativeDeps": [
+                "@walmart/react-native-electrode-bridge@1.4.12"
+              ],
               "miniApps": {
                 "container": [],
                 "ota": []
