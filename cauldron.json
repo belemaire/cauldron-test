@@ -337,7 +337,19 @@
         },
         {
           "name": "ios",
-          "versions": []
+          "versions": [
+            {
+              "name": "1.0.0",
+              "ernPlatformVersion": "1000",
+              "isReleased": false,
+              "binary": null,
+              "nativeDeps": [],
+              "miniApps": {
+                "container": [],
+                "ota": []
+              }
+            }
+          ]
         }
       ]
     }
