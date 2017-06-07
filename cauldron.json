@@ -417,7 +417,12 @@
     },
     {
       "name": "walmart-test-4994",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
