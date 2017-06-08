@@ -14,7 +14,8 @@
         "@walmart/react-native-walmartstate-api@0.17.10"
       ],
       "targetJsDependencies": []
-    }, {
+    },
+    {
       "platformVersion": "1000.0.0",
       "targetNativeDependencies": [
         "@walmart/react-native-user-api@0.0.24",
@@ -314,6 +315,10 @@
           ]
         }
       ]
+    },
+    {
+      "name": "walmart-test-63837",
+      "platforms": []
     }
   ]
 }
