@@ -220,6 +220,10 @@
           ]
         }
       ]
+    },
+    {
+      "name": "walmart-test-96864",
+      "platforms": []
     }
   ]
 }
