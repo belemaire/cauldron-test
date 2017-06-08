@@ -395,6 +395,10 @@
           ]
         }
       ]
+    },
+    {
+      "name": "walmart-test-10524",
+      "platforms": []
     }
   ]
 }
