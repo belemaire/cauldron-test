@@ -349,7 +349,12 @@
     },
     {
       "name": "walmart-test-16399",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
