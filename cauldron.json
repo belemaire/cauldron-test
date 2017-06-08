@@ -56,7 +56,12 @@
     },
     {
       "name": "walmart-test-81141",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
