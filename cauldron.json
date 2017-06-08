@@ -14,6 +14,19 @@
         "@walmart/react-native-walmartstate-api@0.17.10"
       ],
       "targetJsDependencies": []
+    }, {
+      "platformVersion": "1000.0.0",
+      "targetNativeDependencies": [
+        "@walmart/react-native-user-api@0.0.24",
+        "@walmart/react-native-todo-api@0.0.34",
+        "@walmart/react-native-navigation-api@0.0.17",
+        "@walmart/react-native-walmartanalytics-api@0.17.8",
+        "@walmart/react-native-walmartnavigation-api@0.17.12",
+        "@walmart/react-native-walmartuserauth-api@0.17.8",
+        "@walmart/react-native-walmartcookie-api@0.17.14",
+        "@walmart/react-native-walmartstate-api@0.17.10"
+      ],
+      "targetJsDependencies": []
     }
   ],
   "nativeApps": [
