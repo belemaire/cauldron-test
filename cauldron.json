@@ -355,7 +355,9 @@
                 "react-native-code-push@1.17.1-beta"
               ],
               "miniApps": {
-                "container": [],
+                "container": [
+                  "miniapp36489@0.0.1"
+                ],
                 "ota": []
               }
             }
