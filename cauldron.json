@@ -440,7 +440,8 @@
               "binary": null,
               "nativeDeps": [
                 "react-native@0.42.0",
-                "react-native-code-push@1.17.1-beta"
+                "react-native-code-push@1.17.1-beta",
+                "react-native-vector-icons@4.0.0"
               ],
               "miniApps": {
                 "container": [],
