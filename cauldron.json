@@ -429,7 +429,12 @@
     },
     {
       "name": "test123",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
