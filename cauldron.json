@@ -465,7 +465,9 @@
               "ernPlatformVersion": "1000.0.0",
               "isReleased": false,
               "binary": null,
-              "nativeDeps": [],
+              "nativeDeps": [
+                "react-native-stack-tracer@0.1.1"
+              ],
               "miniApps": {
                 "container": [],
                 "ota": []
