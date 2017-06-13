@@ -523,7 +523,12 @@
     },
     {
       "name": "bla",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
