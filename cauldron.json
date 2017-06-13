@@ -565,7 +565,12 @@
     },
     {
       "name": "blablvla",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
