@@ -541,6 +541,10 @@
           ]
         }
       ]
+    },
+    {
+      "name": "blabla",
+      "platforms": []
     }
   ]
 }
